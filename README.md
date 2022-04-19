@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YjarikoneY
 - 👀 I’m interested in front-end projects (can be for free to learn new things)
 - 🌱 I’m currently learning JS + React
-- 💞️ I’m looking to collaborate on any website projects
+- 💞️ I’m looking to collaborate on any website projects (I have a small knowledge in HTML & CSS)
 - 📫 How to reach me +380637092203 (telegram/viber)
 
 <!---
